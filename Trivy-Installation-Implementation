@@ -1,3 +1,4 @@
+https://aquasecurity.github.io/trivy/v0.41/
 ---INSTALLATION STEPS---
 
 sudo apt-get install wget apt-transport-https gnupg lsb-release
